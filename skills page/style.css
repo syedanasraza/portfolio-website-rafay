@@ -1,0 +1,22 @@
+.skil-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    color: #000000;
+    font-size: 50px;
+    gap: 50px;
+    height: 600px;
+    width: 1500px;
+    background-color: #3877ff;
+    margin-left: 300px;
+    border-radius: 100px;
+}
+body{
+    background-color: #262525;
+}
+#A-one{
+    margin-left: 950px;
+    font-size: 70px;
+    color: #3877ff;
+}

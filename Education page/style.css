@@ -1,0 +1,21 @@
+.nam-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+    height: 500px;
+    background-color: #3877ff;
+    gap: 80px;
+    font-size: 30px;
+    width: 1900px;
+    margin-left: 85px;
+    border-radius: 50px;
+}
+body{
+    background-color: #000000;
+}
+#style{
+    margin-left: 900px;
+    font-size: 50px;
+    color: #3877ff;
+}
